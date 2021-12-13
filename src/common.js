@@ -1,0 +1,5 @@
+import { TERMINAL_TYPE, PLATFORM_TYPE } from '@/enums/common';
+
+export const TERMINAL = TERMINAL_TYPE.MINI_PROGRAM;
+
+export const PLATFORM = PLATFORM_TYPE.MINI_PROGRAM;
